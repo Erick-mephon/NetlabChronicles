@@ -19,7 +19,7 @@ This repository contains:
 
 ## 📦 Structure
 
-network-lab-docs/
+NetlabChronicles/
 ├── diagrams/        # Network diagrams (e.g. .png, .drawio)
 ├── configs/         # Device configurations for different technologies
 ├── scripts/         # Shell or PowerShell scripts to help automate tasks
